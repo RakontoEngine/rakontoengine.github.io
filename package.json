@@ -1,0 +1,31 @@
+{
+  "name": "rakontoengine.github.io",
+  "version": "0.1.0",
+  "description": "GitHub Pages repository for Rakonto Engine.",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RakontoEngine/rakontoengine.github.io.git"
+  },
+  "keywords": [
+    "rakonto",
+    "game",
+    "engine",
+    "github",
+    "pages"
+  ],
+  "author": "Rakonto Engine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RakontoEngine/rakontoengine.github.io/issues"
+  },
+  "homepage": "https://github.com/RakontoEngine/rakontoengine.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.2.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-stylus": "^2.7.0"
+  }
+}
